@@ -1,0 +1,34 @@
+body{
+    background-image: url(images/bg.jpeg);
+    background-attachment: fixed;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+.main{
+    font-family: 'Roboto', sans-serif;
+    color: #fff;
+    padding: 50px;
+    width: 1000px;
+    margin: 0 auto;
+
+}
+.icon-text{
+    float: left;
+    font-size: 20px;
+
+}
+.navbar{
+    float: right;
+    font-size: 20px;
+    
+}
+.navbar ul a{
+    padding: 10px;
+    color:#fff;
+}
+.big{
+    font-size: 30px;
+}
+.header-text{
+    margin-top: 200px;
+}
